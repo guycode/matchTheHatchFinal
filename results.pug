@@ -1,0 +1,7 @@
+html
+  head
+    link(href="./app/css/style2.css", rel="stylesheet")
+  body
+    img(src="data:image/png;base64," + image)
+    each concept in concepts
+      p #{concept.name}: #{concept.value}

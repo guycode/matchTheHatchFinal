@@ -1,0 +1,19 @@
+{
+    "envhatch": {
+        "awscloudformation": {
+            "AuthRoleName": "matchthehatchapp-20190330101528-authRole",
+            "UnauthRoleArn": "arn:aws:iam::476557234861:role/matchthehatchapp-20190330101528-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::476557234861:role/matchthehatchapp-20190330101528-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "matchthehatchapp-20190330101528-deployment",
+            "UnauthRoleName": "matchthehatchapp-20190330101528-unauthRole",
+            "StackName": "matchthehatchapp-20190330101528",
+            "StackId": "arn:aws:cloudformation:us-west-2:476557234861:stack/matchthehatchapp-20190330101528/09218920-5307-11e9-966d-06b57ba4e740"
+        },
+        "categories": {
+            "auth": {
+                "cognitoa8584e59": {}
+            }
+        }
+    }
+}

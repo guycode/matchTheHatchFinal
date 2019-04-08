@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 78878,
+  "expoServerNgrokUrl": "https://pi-jec.guycode.matchthehatchfinal.exp.direct",
+  "packagerNgrokUrl": "https://packager.pi-jec.guycode.matchthehatchfinal.exp.direct",
+  "ngrokPid": 78896,
+  "webpackServerPort": null
+}
